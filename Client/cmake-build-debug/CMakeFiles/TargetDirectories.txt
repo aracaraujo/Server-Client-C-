@@ -1,0 +1,3 @@
+/Users/aracaraujo/Documents/PersonalProjects/C++Networking/Client/cmake-build-debug/CMakeFiles/Client.dir
+/Users/aracaraujo/Documents/PersonalProjects/C++Networking/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aracaraujo/Documents/PersonalProjects/C++Networking/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
